@@ -12,4 +12,6 @@ int main()
     cin >> a;
     cout << "Довжина в м - ";
     cout << int(a) / 100;
+    cout << "\nДовжина в км - ";
+    cout << int(a) / 100000;
 }
