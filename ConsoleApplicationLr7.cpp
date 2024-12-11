@@ -18,4 +18,10 @@ int main()
     cout << int(a) / 10;
     cout << "\nДовжина в дм - ";
     cout << int(a) * 10;
+    cout << "\nДовжина в дм - ";
+    cout << int(a) * 10;
+    cout << "\nДовжина в дм - ";
+    cout << int(a) * 10;
+    cout << "\nДовжина в дм - ";
+    cout << int(a) * 10;
 }
